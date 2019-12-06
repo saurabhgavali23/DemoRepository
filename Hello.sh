@@ -1,5 +1,5 @@
 #!/bin/bash -x
 
 
-echo "BridgeLabz"
+echo "Hello BridgeLabz"
 
