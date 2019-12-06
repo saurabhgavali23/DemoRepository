@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-echo "Hello BridgeLabz Mumbai"
+echo "BridgeLabz Mumbai"
 
 
 
