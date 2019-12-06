@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-echo "Hello BridgeLabz"
+echo "Hello BridgeLabz Mum"
 
 
 
